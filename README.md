@@ -4,3 +4,5 @@ Install:
 
 Replace bibitesassembly.dll in  with the one provided in  .PATH_TO_INSTALL\The Bibites 0.6.x\The Bibites 64x_Data\Managed
 
+WARNING: INSTALL MAY PISS OF ANTIVIRUS. I PROMISE THIS IS NOT A VIRUS
+
